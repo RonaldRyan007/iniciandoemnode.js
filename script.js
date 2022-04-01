@@ -23,14 +23,14 @@
 
 //const 
 
-const forma = 'retangulo'
+const forma = 'retângulo'
 const altura = 5;
 const comprimento = 7;
-let = area;
+let area;
 
-if(forma === 'retangulo'){
-    area = altura * comprimento
+if(forma === 'quadrado'){
+    area = altura * comprimento;
 }else{
-    altura (altura * comprimento)/2
+    area = (altura * comprimento)/2
 }
 console.log(area);
